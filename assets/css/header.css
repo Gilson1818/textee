@@ -1,0 +1,18 @@
+header{
+
+  }
+   div.conteiner{
+     display: flex;
+     align-items: center;
+     
+     background: rgb(21, 185, 108);
+     flex-direction: row;
+      
+   }
+
+
+
+img{
+ border-radius: 50%;
+ border:5px solid #fff;
+}
